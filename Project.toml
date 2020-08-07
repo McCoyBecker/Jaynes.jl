@@ -15,6 +15,7 @@ ZigZagBoomerang = "36347407-b186-4a6a-8c98-4f4567861712"
 Zygote = "e88e6eb3-aa80-5325-afca-941959d7151f"
 
 [compat]
+AbstractMCMC = "2.0"
 Distributions = "0.23"
 DistributionsAD = "0.6"
 Flux = "0.8, 0.11"
